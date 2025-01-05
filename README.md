@@ -1,2 +1,2 @@
-# factura_electronica_seniat
-Facturación Electrónica de Venezuela para la normativa del SENIAT
+# factura_digital_seniat
+Facturación Digital de Venezuela para la normativa del SENIAT
